@@ -1,0 +1,370 @@
+2026-11-26 10:33:18,425 [INFO] Scanner started, API=https://rvai-be-henna.vercel.app/api/absen/scan
+2026-11-26 10:33:37,213 [INFO] Scan ok: HTTP 200 in 1183 ms
+2026-11-26 10:33:38,028 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:33:43,146 [INFO] Scan ok: HTTP 200 in 1056 ms
+2026-11-26 10:33:43,863 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:33:57,991 [INFO] Scan ok: HTTP 200 in 990 ms
+2026-11-26 10:33:58,713 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:34:01,785 [INFO] Scan ok: HTTP 200 in 918 ms
+2026-11-26 10:34:02,398 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:34:09,976 [INFO] Scan ok: HTTP 200 in 821 ms
+2026-11-26 10:34:10,694 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:34:17,964 [INFO] Scan ok: HTTP 200 in 5976 ms
+2026-11-26 10:34:18,681 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:34:27,692 [INFO] Scan ok: HTTP 200 in 1046 ms
+2026-11-26 10:36:11,651 [INFO] Scan ok: HTTP 200 in 846 ms
+2026-11-26 10:36:16,036 [INFO] Scan ok: HTTP 200 in 954 ms
+2026-11-26 10:36:20,541 [INFO] Scan ok: HTTP 200 in 1051 ms
+2026-11-26 10:38:48,413 [INFO] Scan ok: HTTP 200 in 1131 ms
+2026-11-26 10:40:16,069 [WARNING] Scan rejected: HTTP 404 token=IVNCEJBgnEgNnCu_rZtvTiXDdgvVv6NKKnKxy1d75_xpk-apoirZCreAWw body={"success":false,"message":"Data Not Found","error":null}
+2026-11-26 10:41:37,684 [INFO] Scan ok: HTTP 200 in 880 ms
+2026-11-26 10:47:12,040 [INFO] Scan ok: HTTP 200 in 985 ms
+2026-11-26 10:52:45,358 [INFO] Scan ok: HTTP 200 in 1078 ms
+2026-11-26 10:52:46,073 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 10:52:47,712 [WARNING] Scan rejected: HTTP 409 token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3GZKA body={"success":false,"message":"Sudah check out hari ini","error":null}
+2026-11-26 10:52:50,475 [WARNING] Scan rejected: HTTP 409 token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3GZKA body={"success":false,"message":"Sudah check out hari ini","error":null}
+2026-11-26 10:52:53,344 [WARNING] Scan rejected: HTTP 409 token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3GZKA body={"success":false,"message":"Sudah check out hari ini","error":null}
+2026-11-26 10:58:28,267 [ERROR] Tkinter callback error
+Traceback (most recent call last):
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2088, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 876, in callit
+    func(*args, **kw)
+    ~~~~^^^^^^^^^^^^^
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 425, in animate
+    self.canvas.after_cancel(self.reset_job)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 463, in _draw_idle
+    if code is None:
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 3030, in create_text
+    return self._create('text', args, kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\tkinter\__init__.py", line 2996, in _create
+    return self.tk.getint(self.tk.call(
+                          ~~~~~~~~~~~~^
+        self._w, 'create', itemType,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        *(args + self._options(cnf, kw))))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-11-26 10:58:34,065 [INFO] Scanner started with 5 scanner(s)
+2026-11-26 10:58:34,067 [INFO] Scanner scanner-1: label='Scanner 1' input=COM3 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 10:58:34,068 [INFO] Scanner scanner-2: label='Scanner 2' input=COM4 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 10:58:34,068 [INFO] Scanner scanner-3: label='Scanner 3' input=COM5 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 10:58:34,069 [INFO] Scanner scanner-4: label='Scanner 4' input=COM6 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 10:58:34,069 [INFO] Scanner scanner-5: label='Scanner 5' input=COM7 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 10:58:34,144 [ERROR] [scanner-1] Serial error on COM3
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 10:58:34,145 [ERROR] [scanner-2] Serial error on COM4
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 10:58:34,146 [ERROR] [scanner-3] Serial error on COM5
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 10:58:34,146 [ERROR] [scanner-4] Serial error on COM6
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM6': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 10:58:39,272 [ERROR] [scanner-5] Serial error on COM7
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\Users\RYZEN\AppData\Local\Programs\Python\Python314\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM7': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-26 11:00:27,249 [INFO] Using 5 scanner(s) from the command line
+2026-11-26 11:00:28,085 [INFO] Scanner started with 5 scanner(s)
+2026-11-26 11:00:28,088 [INFO] Scanner scanner-1: label='Scanner 1' input=COM3 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:00:28,089 [INFO] Scanner scanner-2: label='Scanner 2' input=COM4 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:00:28,090 [INFO] Scanner scanner-3: label='Scanner 3' input=COM5 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:00:28,093 [INFO] Scanner scanner-4: label='Scanner 4' input=COM6 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:00:28,095 [INFO] Scanner scanner-5: label='Scanner 5' input=COM7 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:00:28,152 [ERROR] [scanner-1] Serial error on COM3
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:00:28,153 [ERROR] [scanner-3] Serial error on COM5
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:00:28,154 [ERROR] [scanner-2] Serial error on COM4
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:00:28,154 [ERROR] [scanner-4] Serial error on COM6
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM6': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:00:33,279 [ERROR] [scanner-5] Serial error on COM7
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM7': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-26 11:02:04,673 [INFO] Using 2 scanner(s) from the command line
+2026-11-26 11:02:04,849 [INFO] Scanner started with 2 scanner(s)
+2026-11-26 11:02:04,852 [INFO] Scanner scanner-1: label='Scanner 1' input=COM7 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:02:04,853 [INFO] Scanner scanner-2: label='Scanner 2' input=COM8 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:02:04,890 [INFO] [scanner-2] Serial connected on COM8 @ 9600
+2026-11-26 11:02:10,006 [ERROR] [scanner-1] Serial error on COM7
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM7': OSError(22, 'The semaphore timeout period has expired.', None, 121)
+2026-11-26 11:02:16,492 [INFO] Using 2 scanner(s) from the command line
+2026-11-26 11:02:16,729 [INFO] Scanner started with 2 scanner(s)
+2026-11-26 11:02:16,731 [INFO] Scanner scanner-1: label='Scanner 1' input=COM5 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:02:16,732 [INFO] Scanner scanner-2: label='Scanner 2' input=COM8 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:02:16,765 [ERROR] [scanner-1] Serial error on COM5
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:02:16,766 [INFO] [scanner-2] Serial connected on COM8 @ 9600
+2026-11-26 11:05:09,876 [INFO] Scanner started, API=https://rvai-be-henna.vercel.app/api/absen/scan
+2026-11-26 11:05:17,166 [INFO] Scanner started with 5 scanner(s)
+2026-11-26 11:05:17,168 [INFO] Scanner scanner-1: label='Scanner 1' input=COM3 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:05:17,169 [INFO] Scanner scanner-2: label='Scanner 2' input=COM4 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:05:17,170 [INFO] Scanner scanner-3: label='Scanner 3' input=COM5 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:05:17,170 [INFO] Scanner scanner-4: label='Scanner 4' input=COM6 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:05:17,171 [INFO] Scanner scanner-5: label='Scanner 5' input=COM7 api=https://rvai-be-henna.vercel.app/api/absen/scan extra=-
+2026-11-26 11:05:17,219 [ERROR] [scanner-1] Serial error on COM3
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:05:17,220 [ERROR] [scanner-2] Serial error on COM4
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:05:17,220 [ERROR] [scanner-4] Serial error on COM6
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM6': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:05:17,220 [ERROR] [scanner-3] Serial error on COM5
+Traceback (most recent call last):
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 935, in serial_loop
+    with serial.Serial(cfg.port, cfg.baud, timeout=1) as ser:
+         ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 33, in __init__
+    super(Serial, self).__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "C:\laragon\bin\python\python-3.13\Lib\site-packages\serial\serialwin32.py", line 64, in open
+    raise SerialException("could not open port {!r}: {!r}".format(self.portstr, ctypes.WinError()))
+serial.serialutil.SerialException: could not open port 'COM5': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-11-26 11:10:35,302 [INFO] Scanner started, API=https://rvai-be-henna.vercel.app/api/absen/scan, workers=5
+2026-11-26 11:12:15,490 [INFO] #1 queued from keyboard (waiting in queue: 1) token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3IGdZWKzAl
+2026-11-26 11:12:15,701 [INFO] #2 queued from keyboard (waiting in queue: 1) token=ttZFK3gi8fz3dQRRZB4NRJY0i9NRQZmbX0DFjBo-XeCXpzuiHbyyw
+2026-11-26 11:12:16,736 [WARNING] #1 Scan rejected: HTTP 401 token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3IGdZWKzAl body={"success":false,"message":"Invalid Credentials","error":null}
+2026-11-26 11:12:16,737 [WARNING] #2 Scan rejected: HTTP 401 token=ttZFK3gi8fz3dQRRZB4NRJY0i9NRQZmbX0DFjBo-XeCXpzuiHbyyw body={"success":false,"message":"Invalid Credentials","error":null}
+2026-11-26 11:12:26,144 [INFO] #3 queued from keyboard (waiting in queue: 1) token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUC0MjFU3GZKA
+2026-11-26 11:12:27,068 [INFO] #3 Scan ok: HTTP 200 in 923 ms (queued 0 ms)
+2026-11-26 11:12:27,788 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 11:12:30,251 [INFO] #4 queued from keyboard (waiting in queue: 1) token=IdWzlttZFK3gi8fz3dQRRZB4NRJY0i9NRQZmbX0DFjBo-XeCXpzuiHbyyw
+2026-11-26 11:12:31,163 [INFO] #4 Scan ok: HTTP 200 in 912 ms (queued 0 ms)
+2026-11-26 11:12:48,511 [INFO] #5 queued from keyboard (waiting in queue: 1) token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUiCD0WMZjlFTTU3ZGfzKK#AG
+2026-11-26 11:12:48,692 [INFO] #6 queued from keyboard (waiting in queue: 1) token=i8fz3dQRRZB4NRJY0i9NRQZmbX0DFjBo-XeCXpzuiHbyyw
+2026-11-26 11:12:49,391 [WARNING] #5 Scan rejected: HTTP 401 token=IcdcEe4tYJC4y8MQ05sRw7tgID_UmAjyRrzVMvW1EwyqFTUiCD0WMZjlFTTU3ZGfzKK#AG body={"success":false,"message":"Invalid Credentials","error":null}
+2026-11-26 11:12:49,698 [WARNING] #6 Scan rejected: HTTP 401 token=i8fz3dQRRZB4NRJY0i9NRQZmbX0DFjBo-XeCXpzuiHbyyw body={"success":false,"message":"Invalid Credentials","error":null}
+2026-11-26 11:13:23,994 [ERROR] Tkinter callback error
+Traceback (most recent call last):
+  File "C:\laragon\bin\python\python-3.13\Lib\tkinter\__init__.py", line 2068, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\tkinter\__init__.py", line 862, in callit
+    func(*args)
+    ~~~~^^^^^^^
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 542, in animate
+    self._draw_idle(w, h, now, elapsed, bg, fg, muted, accent)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\project-pribadi\RVAI\microservices\index.py", line 592, in _draw_idle
+    self.canvas.create_text(cx, h * 0.72, text=self.sub_text, fill=muted, font=("Helvetica", -sub_size))
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\tkinter\__init__.py", line 3008, in create_text
+    return self._create('text', args, kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\laragon\bin\python\python-3.13\Lib\tkinter\__init__.py", line 2974, in _create
+    return self.tk.getint(self.tk.call(
+                          ~~~~~~~~~~~~^
+        self._w, 'create', itemType,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        *(args + self._options(cnf, kw))))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2026-11-26 11:35:36,830 [INFO] Scanner started, API=https://rvai-be-henna.vercel.app/api/absen/scan, workers=5, raw_input=True
+2026-11-26 11:35:36,843 [INFO] Raw input reader started (filters: VID_26F1&PID_8801)
+2026-11-26 11:35:56,958 [INFO] Raw input device kbd-1: \\?\HID#VID_26F1&PID_8801#7&3723dbb&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+2026-11-26 11:35:57,171 [INFO] Raw input device kbd-2: \\?\HID#VID_26F1&PID_8801#7&124ed4c9&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+2026-11-26 11:35:57,193 [INFO] #1 queued from kbd-1 (waiting in queue: 1) token=IcdcEe...GZKA
+2026-11-26 11:35:57,232 [INFO] Raw input device kbd-3: \\?\HID#VID_26F1&PID_8801#7&6adbdc&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+2026-11-26 11:35:57,448 [INFO] #2 queued from kbd-2 (waiting in queue: 1) token=IcE-O7...0ezg
+2026-11-26 11:35:57,484 [INFO] Raw input device kbd-4: \\?\HID#VID_26F1&PID_8801#8&28a7a06f&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+2026-11-26 11:35:57,501 [INFO] #3 queued from kbd-3 (waiting in queue: 1) token=IdWzlt...byyw
+2026-11-26 11:35:57,766 [INFO] #4 queued from kbd-4 (waiting in queue: 1) token=IXj_SW...T0Ig
+2026-11-26 11:35:58,477 [INFO] #1 Scan ok: HTTP 200 in 1284 ms (queued 0 ms)
+2026-11-26 11:35:58,480 [INFO] #2 Scan ok: HTTP 200 in 1032 ms (queued 0 ms)
+2026-11-26 11:35:58,694 [INFO] #4 Scan ok: HTTP 200 in 927 ms (queued 0 ms)
+2026-11-26 11:35:58,781 [INFO] #3 Scan ok: HTTP 200 in 1280 ms (queued 0 ms)
+2026-11-26 11:35:59,293 [WARNING] Failed to load photo https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg: 403 Client Error: Forbidden for url: https://9fx8xpmfkxatr782.private.blob.vercel-storage.com/profile_pictures/29e307dd-f0d2-4a17-949e-ea759abe10e6.jpg
+2026-11-26 11:36:48,640 [INFO] #5 queued from kbd-1 (waiting in queue: 1) token=IdWzlt...byyw
+2026-11-26 11:36:49,488 [INFO] #5 Scan ok: HTTP 200 in 847 ms (queued 1 ms)
+2026-11-26 11:36:50,447 [INFO] #6 queued from kbd-2 (waiting in queue: 1) token=IcE-O7...0ezg
+2026-11-26 11:36:51,525 [INFO] #6 Scan ok: HTTP 200 in 1078 ms (queued 0 ms)
+2026-11-26 11:37:47,844 [INFO] #7 queued from kbd-2 (waiting in queue: 1) token=IXk7j9...rQcg
+2026-11-26 11:37:48,762 [INFO] #7 Scan ok: HTTP 200 in 918 ms (queued 1 ms)
+2026-11-26 14:27:47,588 [INFO] Raw input device kbd-5: \\?\ACPI#MSFT0001#4&bec8112&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}  (ignored)
+2026-11-26 14:27:57,380 [INFO] #8 queued from kbd-2 (waiting in queue: 1) token=IZevte...VXZQ
+2026-11-26 14:27:57,523 [ERROR] #8 Connection error: HTTPSConnectionPool(host='rvai-be-henna.vercel.app', port=443): Max retries exceeded with url: /api/absen/scan (Caused by NameResolutionError("HTTPSConnection(host='rvai-be-henna.vercel.app', port=443): Failed to resolve 'rvai-be-henna.vercel.app' ([Errno 11001] getaddrinfo failed)"))
+2026-11-26 14:28:12,093 [INFO] Scanner started, API=https://rvai-be-henna.vercel.app/api/absen/scan, workers=5, raw_input=True
+2026-11-26 14:28:12,115 [INFO] Raw input reader started (filters: VID_26F1&PID_8801)
+2026-11-26 14:28:48,154 [INFO] Raw input device kbd-1: \\?\ACPI#MSFT0001#4&bec8112&0#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}  (ignored)
